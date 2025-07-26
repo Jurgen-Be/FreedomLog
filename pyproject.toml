@@ -1,0 +1,9 @@
+[project]
+name = "freedomlog"
+version = "1.0.0"
+description = "A flexible and minimal logging library for Python with full user control"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "loguru>=0.7.3",
+]
