@@ -30,6 +30,11 @@ git clone https://github.com/Jurgen-Be/FreedomLog.git
 ```bash
 pip install https://github.com/Jurgen-Be/FreedomLog/releases/download/V1.0.0/freedomlog-1.0.0-py3-none-any.whl
 ```
+
+### With uv install:
+```bash
+uv add https://github.com/Jurgen-Be/FreedomLog/releases/download/V1.0.0/freedomlog-1.0.0-py3-none-any.whl
+```
 ---
 ## 🚀 Usage
 
